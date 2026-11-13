@@ -4,7 +4,7 @@ A ranked top-10 films list, built as part of a front-end learning path.
 Focus: styling a repeated list with structural selectors — no class on
 any item.
 
-**[→ Live demo](https://TahaSoumbate.github.io/favorite-movies-list/)**
+**[→ Live demo]([https://TahaSoumbate.github.io/favorite-movies-list/](https://tahasoumbate.github.io/FavoriteMoviesList/))**
 
 ![Screenshot of the films list](./public/image/web.png)
 
